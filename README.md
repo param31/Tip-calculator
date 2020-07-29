@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![tipcalculator](https://imgur.com/a/JALxO9u)
+![tipcalculator](https://i.imgur.com/a/JALxO9u.gif)
 
 ## Notes
 
