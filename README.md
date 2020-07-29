@@ -1,4 +1,4 @@
-#*Tip Calculator*
+## Tip Calculator
 
 It is a tip calculator application for iOS.
 
